@@ -1,12 +1,12 @@
 # Hi, I'm Andrei Margelatu
 
-**Founder of [MergingTechnologies](https://zealous-sea-07416da03.4.azurestaticapps.net/)** — an AI automation consultancy helping businesses eliminate manual work through production-grade AI systems.
+**AI Engineer** specializing in multi-agent systems, RAG pipelines, and cloud-native AI applications.
 
-I architect multi-agent systems, RAG pipelines, and cloud-native AI applications. I've delivered solutions across **banking, aerospace, telecom, education, and recycling** verticals — from orchestration agents on GCP to full-stack platforms processing thousands of automated workflows.
+I design and build production-grade AI solutions — from orchestration agents coordinating multiple MCP servers to multimodal retrieval systems and end-to-end business automation. I've delivered across **banking, aerospace, telecom, education, recycling, and healthcare** verticals.
 
 ## What I Build
 
-- **Multi-Agent AI Systems** — LangGraph orchestration, MCP servers, tool-calling architectures with 29+ tools
+- **Multi-Agent AI Systems** — LangGraph orchestration, MCP servers, tool-calling architectures with 29+ integrated tools
 - **RAG Pipelines** — Multimodal retrieval (text, images, structured data) with vector databases
 - **Business Process Automation** — Document AI, workflow orchestration, data extraction pipelines
 - **Full-Stack AI Applications** — React + FastAPI + Docker, deployed on GCP / Azure / AWS
@@ -48,15 +48,12 @@ Top 5 of 390 in Kaggle NLP competition. DeBERTa-v3-large with stratified k-fold 
 |--------|-------------|
 | **Banking & Finance** | Automated testing frameworks, CI/CD pipelines, cloud-native deployments |
 | **Aerospace** | Quality automation systems, compliance testing |
-| **Education** | AI-powered learning platforms with intelligent feedback |
+| **Education** | AI-powered learning platforms with intelligent student feedback |
 | **Recycling & Compliance** | Process automation, regulatory document generation, material tracking |
-| **Telecom & IoT** | Data extraction pipelines, RabbitMQ message queues, automated ETL |
+| **Telecom & IoT** | Data extraction pipelines, message queues, automated ETL |
 | **Healthcare** | Synthetic EHR data generation, treatment adherence analytics |
 
-## Let's Work Together
+## Get In Touch
 
-I help businesses save time and reduce errors by automating repetitive processes with AI.
-
-- **Website:** [MergingTechnologies](https://zealous-sea-07416da03.4.azurestaticapps.net/)
 - **LinkedIn:** [andrei-cristian-margelatu](https://www.linkedin.com/in/andrei-cristian-margelatu-299376203/)
 - **Email:** contact@mergingtech.ro
